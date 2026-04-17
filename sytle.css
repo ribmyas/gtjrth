@@ -1,0 +1,8 @@
+/* Example Ruleset */
+p {
+    color: blue;         /* Sets text color */
+    font-size: 16px;     /* Sets text size */
+    text-align: center;  /* Aligns text */
+  }
+
+  
